@@ -1,4 +1,4 @@
-#!/usr/bin/env DENO_DIR=/tmp deno run --version=v1.46.3
+#!/usr/bin/env DENO_DIR=/tmp deno run
 import { Card } from "../src/card.ts";
 import { CONSTANTS, parseParams } from "../src/utils.ts";
 import { COLORS, Theme } from "../src/theme.ts";
